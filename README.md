@@ -1,3 +1,5 @@
+# Crime Analysis in Derbyshire 2019
+
 # SECTION 1
 ## 1.1.	DATASET DESCRIPTION
 A geographic hierarchy called Lower Layer Super Output Areas (LSOA) was created to enhance the reporting of local area statistics in England and Wales. They are constructed from collections of adjacent Output Areas that were automatically formed to have a population size as uniform as possible. Generally, they contain four to six Output Areas. The average population is 1500, and the least population is 1000 for an LSOA. The dataset consists of crimes reported in each LSOA in Derbyshire, the information in the data is divided into 315 regions, including 48 regions in Bolsover, 59 regions in High Peak, 69 regions in Chesterfield, 78 regions in Amber Valley, 73 regions in Erewash. The dataset consists of 14 crime variables linked to statistics on the number of people and the size of the land area (in hectares) for each of the 642 regions in Derbyshire, which all occurred in 2019.
