@@ -182,9 +182,7 @@ After computing and storing the residuals in a data frame called Residuals, the 
 
 ### CORRELATION VISUALS
 
-![Figure 9. Scatterplots of residuals to inspect correlation.](images/9a.png)
-![Figure 9. Scatterplots of residuals to inspect correlation.](images/9b.png)
-![Figure 9. Scatterplots of residuals to inspect correlation.](images/9c.png)
+![Figure 9. Scatterplots of residuals to inspect correlation.](images/9.png)
 _Figure 9. Scatterplots of residuals to inspect correlation._
 
 *INTERPRETATION*
